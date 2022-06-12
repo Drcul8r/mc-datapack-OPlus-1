@@ -18,6 +18,7 @@ scoreboard objectives add oplus.timePlayed trigger
 scoreboard objectives add oplus.reset trigger
 
 scoreboard players enable @a[tag=operator] help
+scoreboard players enable @a[tag=operator] operate
 scoreboard players enable @a[tag=surveillance] spectate
 scoreboard players enable @a[tag=surveillance] survival
 scoreboard players enable @a[tag=operator] operator
