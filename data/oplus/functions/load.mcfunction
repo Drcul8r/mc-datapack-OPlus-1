@@ -1,6 +1,6 @@
 # Create scoreboards
 
-tellraw drcul8r {"text":"My data pack has loaded","color":"gold"}
+tellraw @a {"text":"OPlus-1 data pack has loaded","color":"gold"}
 scoreboard objectives add oplus.pid dummy "OPlus+ Player ID"
 scoreboard objectives setdisplay list oplus.pid
 scoreboard objectives add help trigger
