@@ -11,6 +11,7 @@ scoreboard objectives add moderator trigger
 scoreboard objectives add surveillance trigger
 scoreboard objectives add banish trigger
 scoreboard objectives add scoreboard trigger
+scoreboard objectives add operate trigger
 scoreboard objectives add oplus.diamondsMined trigger
 scoreboard objectives add oplus.netheriteMined trigger
 scoreboard objectives add oplus.timePlayed trigger
