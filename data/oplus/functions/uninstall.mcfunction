@@ -14,16 +14,6 @@ scoreboard objectives remove oplus.timePlayed
 scoreboard objectives remove oplus.reset
 scoreboard objectives remove scoreboard
 
-scoreboard players reset @a banish
-scoreboard players reset @a help
-scoreboard players reset @a moderator
-scoreboard players reset @a surveillance
-scoreboard players reset @a operator
-scoreboard players reset @a oplus.pid
-scoreboard players reset @a spectate
-scoreboard players reset @a survival
-scoreboard players reset @a oplus.diamondsMined
-scoreboard players reset @a oplus.netheriteMined
-scoreboard players reset @a oplus.timePlayed
-scoreboard players reset @a oplus.reset
-scoreboard players reset @a scoreboard
+tag @a remove moderator
+tag @a remove surveillance
+tag @a remove operator
